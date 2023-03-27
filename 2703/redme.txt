@@ -1,0 +1,68 @@
+XML 
+
+JSON
+
+Data Transfer Format
+XML
+Extensible Markup Language
+
+<id>1</id>
+<name>Ram</name>
+<address>Ayodhya</address>
+
+Parse
+JSON
+JavaScript Object Notation
+{
+	id:1,
+	name:"Ram",
+	addressL:"Ayodhya"
+}
+
+
+COVID
+
+Live data
+Surat India case
+Gov News
+
+API
+FREE PAID
+KEY
+Railway
+Surat to Goa
+ABC 100
+IRCTC  5 
+Make my trip  100 or 95
+..
+...
+...
+
+API 
+Application Program Interface
+Data -> Third PArty
+
+SMS -> API Service 
+URL Standard Data
+Sign Up
+
+Soup Starter
+Customer Frontend
+
+
+Waiter (API)
+
+
+Cook  Backend
+
+
+JSON
+
+
+
+API
+
+map()
+
+
+https://api.openweathermap.org/data/2.5/weather?q=surat&appid=147ce4b2e9654aa8b6f31c8a90746db0

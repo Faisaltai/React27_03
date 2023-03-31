@@ -1,0 +1,59 @@
+Yug 
+Yuvraj
+Faisal
+Akshat (not in batch list)
+Digant
+
+
+What is React?
+Javascript Library
+Javascript functionality extend
+Adv JS 
+ES6 (Ecma Script 2006)
+Google Chrome V8 Engine
+
+
+
+
+React JS (Components)
+Single Page Application
+Components
+
+
+Free and Open Source (Source Code available)
+
+https://nodejs.org/en
+
+NPM (Node Package Manager)
+
+CRAO
+create-react-app-offline
+
+node -v
+npm -v
+create-react-app --version
+
+1) install nodejs
+2) node + npm
+3) npm install -g create-react-app
+4) to create react project --> create-react-app myapp(app name)
+5) cd myapp
+
+class keyword in react
+class component use
+
+JSX 
+Strict HTML follow
+Javascript XML
+
+
+
+1 react project ----
+unnesessary  remove
+print ur name in heading1
+put 3-4 images on the same page
+Apply css on heading1 and image
+
+
+
+

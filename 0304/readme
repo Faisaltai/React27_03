@@ -1,0 +1,56 @@
+React use
+Node 
+Node Package Manager (NPM)
+Libraries
+
+create-react-app
+
+1) Node installation   (https://nodejs.org/en)
+2) node -v           (to check version of installed nodejs)
+3) npm -v            (to check version of npm)
+4) npm install -g creat-react-app    (install create-react-app globally)
+5) create-react-app --version     (to check version of create-react-app)
+
+6) create-react-app myfirstapp    (to create new reactjs project, here myfirstapp is project name) 
+
+7) cd myfirstapp    (change directory to your project directory)
+
+8) npm start (to run your project)
+
+
+
+
+
+to install create-react-app in offline mode use the following
+Create React App (Offline version - CRAO)
+
+npm i create-react-app-offline
+
+crao -n <app-name>
+
+
+Components
+Props
+
+components --> 
+header
+nav
+footer
+article
+section
+
+
+React 
+JSX (Javascript XML) Strict HTML format
+
+
+ <img src="./screenshot1.png" alt=""></img>
+ <img src="./screenshot1.png" alt=""/>
+
+camelCase
+3-5 images
+
+
+
+Basic Layout of ur website
+header,nav,section,article, footer

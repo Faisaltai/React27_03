@@ -1,0 +1,40 @@
+Component
+
+header -> 
+navbar ->
+section
+article
+footer
+multiple time use
+
+Function Component
+Class Component
+
+REACT   frontend
+NODE - backend
+
+LAB 2
+Cellphone LAB 2
+
+
+Component 
+Create -> Name's first character must be capital
+<header> Tag
+<Header> Components
+
+
+HTML 
+1) All tags must be closed.
+2) Value of attributes must be in Double Quote ("")
+3) whenever applying css classes, use className instead of class
+4) if you are using image ( first import image as js variable) and alt attribute is must.
+5) you cannot render multiple elements directly. (use <div> or <>)
+
+Props -> Properties 
+Tag -> Same as attributes <img src="">
+
+Data passing using Props
+Component with Props -> <Card value="Hyundai">
+
+Portfoliio
+Advertise

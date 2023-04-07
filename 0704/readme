@@ -1,0 +1,14 @@
+hostory.go(0)
+-1 -2 -3  prev page
+1 2 3 forward
+events
+EVENT MUST BE IN CAMELCASE
+
+state
+
+create increment and decrement button to increment and decrement value of variable
+
+2 buttons 
+First Name 
+Last Name
+print Firstname on button click and lastname on button click

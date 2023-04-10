@@ -1,0 +1,36 @@
+h1 -> TOPS
+p -> 10 words 
+
+components
+Reusable elements
+
+Function  -> 
+Class      ->  class reserved word (to declare class component in react)
+class -> 
+1) component create
+2) css class        (class replace with className)
+
+50-70 components
+header
+section
+slider
+
+Component ?
+
+
+
+Props ?
+properties 
+
+
+what is state?
+
+
+Task Num 1
+5 Button -> 
+Red Green Blue Cyan Pink
+if i m clicking on red then it will print -> you have clicked on red
+if i m clicking on pink then it will print -> you have clicked on pink
+
+Task Num 2
+msg should be in red color -> you have clicked on red
